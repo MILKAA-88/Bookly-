@@ -1,0 +1,24 @@
+body {
+  background: black;
+  color: white;
+}
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+.start {
+  border-radius: 5px;
+  color: white;
+  background: red;
+  padding: 15px 17px;
+  font-size: 13px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.logo {
+  height: 15vh;
+  border-radius: 7px;
+}
